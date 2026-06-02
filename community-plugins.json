@@ -30532,5 +30532,12 @@
     "author": "momentmaker",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Import Pilgrim (.pilgrim) walks as Markdown notes — your transcribed voice reflections become searchable, linkable text, with stats, waypoints, weather, and an optional route map.",
     "repo": "walktalkmeditate/pilgrim-obsidian"
+  },
+  {
+    "name": "AI Novelist Studio",
+    "repo": "tingyu220/AI-",
+    "author": "tingyu220",
+    "description": "AI-powered novel writing assistant with DeepSeek integration — one-click chapter generation, character management, and foreshadowing tracking",
+    "id": "ai-novelist-studio"
   }
 ]
